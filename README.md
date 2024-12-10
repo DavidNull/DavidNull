@@ -26,6 +26,7 @@ cat << EOF
 👀 Looking into :
   - Learn PHP, JavaScript, C++ 🔓
   - Cybersecurity 🌍
+  - AI 🤖
 EOF
 
 #  🐇  END  🐇
