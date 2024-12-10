@@ -1,3 +1,4 @@
+```bash
 # 🌟 DavidNull 🌟
 
 echo "👤 Name: David"
