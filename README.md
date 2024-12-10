@@ -19,7 +19,7 @@ for lang in "${LANGUAGES[@]}"; do
 done
 
 
-figlet "" | lolcat
+figlet "⬇️ MY PROYECTS ⬇️" | lolcat
 
 
 cat << EOF
@@ -28,4 +28,4 @@ cat << EOF
   - Cybersecurity 🌍
 EOF
 
-echo "🐇 END 🐇"
+#  🐇  END  🐇
