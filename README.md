@@ -25,7 +25,7 @@ figlet "⬇️ MY PROYECTS ⬇️" | lolcat
 cat << EOF
 👀 Looking into :
   - Learn PHP, JavaScript, C++ 🔓
-  - Cybersecurity 🌍
+  - DevOps 🌍
   - AI 🤖
 EOF
 
