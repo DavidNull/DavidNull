@@ -3,7 +3,6 @@
 
 echo "👤 Name: David"
 echo "🎂 Age: 19"
-echo "📍 Place: Málaga"
 
 echo "💻 Languages I Know:"
 LANGUAGES=(
@@ -11,7 +10,7 @@ LANGUAGES=(
   "HTML/CSS 🎨"
   "Bash 🖥️"
   "JavaScript 🌐"
-  
+  "Go🦫"
 )
 
 for lang in "${LANGUAGES[@]}"; do
@@ -24,9 +23,7 @@ figlet "⬇️ MY PROYECTS ⬇️" | lolcat
 
 cat << EOF
 👀 Looking into :
-  - Learn PHP, JavaScript, C++ 🔓
   - DevOps 🌍
-  - AI 🤖
 EOF
 
 #  🐇  END  🐇
