@@ -93,7 +93,7 @@ EOF
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidNullDev&style=flat-square&color=blue" alt="Profile views" /> <br><br>
+  <img src="https://komarev.com/ghpvc/?username=DavidNull&style=flat-square&color=blue" alt="Profile views" /> <br><br>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4cmx2dmV5Nnp5aTZpM3Q4NmljNDN4YzdtZmp0ajY2ZWQxYzdnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kgweCYpD2u708alOy/giphy.gif" alt="Tepig animado" width="160" /> 
 </p>
 
