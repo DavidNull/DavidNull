@@ -29,14 +29,6 @@ EOF
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DavidNull&theme=gruvbox&no-frame=true&column=4" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 📊 Stats
 
 <p align="center">
