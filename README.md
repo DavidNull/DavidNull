@@ -1,8 +1,5 @@
 <h1 align="center">🐇 DavidNull 🗯️​</h1>
 
-<p align="center">
-  <img src="ds.gif" width="500" /> 
-</p>
 ---
 
 ```bash
@@ -29,6 +26,10 @@ cat << EOF
   - DevOps 🌍
 EOF
 ```
+
+<p align="center">
+  <img src="ds.gif" width="500" /> 
+</p>
 
 ---
 
