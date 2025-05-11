@@ -26,11 +26,6 @@ cat << EOF
   - DevOps 🌍
 EOF
 ```
----
-
-<p align="center">
-  <img src="ds.gif" width="500" /> 
-</p>
 
 ---
 
@@ -88,6 +83,12 @@ EOF
 
 ---
 
+<p align="center">
+  <img src="ds.gif" width="500" /> 
+</p>
+
+---
+
 ### 🔗 Contact
 
 <p align="center">
@@ -95,7 +96,8 @@ EOF
   💼 <a href="https://www.linkedin.com/in/david-cela-pedraza/" target="_blank">LinkedIn</a>
 </p>
 
----
+<br>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DavidNull&style=flat-square&color=blue" alt="Profile views" /> <br><br>
