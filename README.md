@@ -6,25 +6,27 @@
 # 👤 Name: David
 # 🎂 Age: 19
 
-# 💻 Languages I Know:
-LANGUAGES=(
-  "Python 🐍"
-  "HTML/CSS 🎨"
-  "Bash 🖥️"
-  "JavaScript 🌐"
-  "Go 🦫"
+# 💻 Currently into:
+INTO=(
+  "Site Reliability Engineering (SRE) 🛠️"
+  "Cybersecurity 🕵️‍♂️"
+  "Linux / Sysadmin 🐧"
 )
 
-for lang in "${LANGUAGES[@]}"; do
-  echo "  - $lang"
+for interest in "${INTO[@]}"; do
+  echo "  - $interest"
 done
 
-figlet "⬇️ MY PROYECTS ⬇️" | lolcat
 
 cat << EOF
-👀 Looking into :
-  - DevOps 🌍
+👀 Working on:
+  - Elasticsearch & Observability 📊
+  - Personal Projects 💡
+  - FitGenie👕🧠📱
+  - Summer time 🌞  
 EOF
+
+figlet "⬇️ MY PROJECTS ⬇️" | lolcat
 ```
 
 ---
