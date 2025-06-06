@@ -23,7 +23,7 @@ cat << EOF
   - Elasticsearch & Observability 📊
   - Personal Projects 💡
   - FitGenie👕🧠📱
-  - Summer time 🌞  
+  - Summer 🌞  
 EOF
 
 figlet "⬇️ MY PROJECTS ⬇️" | lolcat
