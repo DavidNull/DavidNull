@@ -10,7 +10,7 @@
 INTO=(
   "Site Reliability Engineering (SRE) 🛠️"
   "Cybersecurity 🕵️‍♂️"
-  "Linux / Sysadmin 🐧"
+  "Sysadmin 🐧"
 )
 
 for interest in "${INTO[@]}"; do
