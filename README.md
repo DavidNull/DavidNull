@@ -4,7 +4,7 @@
 
 ```bash
 # 👤 Name: David
-# 🎂 Age: 19
+# 🎂 Age: 20
 
 # 💻 Currently into:
 INTO=(
@@ -22,8 +22,6 @@ cat << EOF
 👀 Working on:
   - Elasticsearch & Observability 📊
   - Personal Projects 💡
-  - FitGenie👕🧠📱
-  - Summer 🌞  
 EOF
 
 figlet "⬇️ MY PROJECTS ⬇️" | lolcat
