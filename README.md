@@ -20,6 +20,7 @@ done
 
 cat << EOF
 👀 Working on:
+  - Cybersecurity specialization degree 🕵️‍♂️"
   - Elasticsearch & Observability 📊
   - Personal Projects 💡
 EOF
