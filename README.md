@@ -9,7 +9,7 @@
 # 💻 Currently into:
 INTO=(
   "Site Reliability Engineering (SRE) 🛠️"
-  "Cybersecurity 🕵️‍♂️"
+  "AI 🤖"
   "Sysadmin 🐧"
 )
 
@@ -20,8 +20,7 @@ done
 
 cat << EOF
 👀 Working on:
-  - Cybersecurity specialization degree 🕵️‍♂️"
-  - Elasticsearch & Observability 📊
+  - Convotis Iberia ✨
   - Personal Projects 💡
 EOF
 
