@@ -8,9 +8,9 @@
 
 # 💻 Currently into:
 INTO=(
-  "Site Reliability Engineering (SRE) 🛠️"
-  "AI 🤖"
-  "Sysadmin 🐧"
+  "DevOps & Platform Engineering ⚙️"
+  "Artificial Intelligence & Applied AI 🤖"
+  "AWS Cloud Partitioner ☁️"
 )
 
 for interest in "${INTO[@]}"; do
@@ -20,7 +20,7 @@ done
 
 cat << EOF
 👀 Working on:
-  - Convotis Iberia ✨
+  - Working at Convotis Iberia ✨
   - Personal Projects 💡
 EOF
 
@@ -61,6 +61,7 @@ figlet "⬇️ MY PROJECTS ⬇️" | lolcat
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform" />
    <br>
 
   <!-- Version Control -->
