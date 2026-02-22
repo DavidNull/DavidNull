@@ -8,8 +8,8 @@
 
 # 💻 Currently into:
 INTO=(
-  "DevOps & Platform Engineering ⚙️"
-  "Artificial Intelligence & Applied AI 🤖"
+  "DevOps & Platform Engineering ⚙️",
+  "Artificial Intelligence & Applied AI 🤖",
   "AWS Cloud Partitioner ☁️"
 )
 
