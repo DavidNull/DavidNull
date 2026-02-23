@@ -27,13 +27,6 @@ EOF
 figlet "⬇️ MY PROJECTS ⬇️" | lolcat
 ```
 
----
-
-### 📊 Stats
-
-<p align=center>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidNull&layout=compact&theme=tokyonight&v=2"></img>
-</p>
 
 ---
 
